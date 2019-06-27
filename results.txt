@@ -1,0 +1,35 @@
+Insetion Sort | Time Started: 6:54:34.441 PM
+Insetion Sort | Time Ended: 6:54:34.848 PM
+Insetion Sort | Duration: 406.6114 ms.
+
+Shell Sort | Time Started: 6:54:34.863 PM
+Shell Sort | Time Ended: 6:54:34.941 PM
+Shell Sort | Duration: 78.1112 ms.
+* Test run in VM
+Linear Search | Time Started: 6:54:34.941 PM
+1500th number: 744330
+3000th number: 887639
+4500th number: 76634
+6000th number: 813462
+7500th number: 520700
+9000th number: 897212
+10500th number: 964649
+12000th number: 417097
+13500th number: 682975
+15000th number: 856198
+Linear Search | Time Ended: 6:54:34.941 PM
+Linear Search | Duration: 0 ms.
+
+Binary Search | Time Started: 6:54:34.957 PM
+1500th number: 744330
+3000th number: 887639
+4500th number: 76634
+6000th number: 813462
+7500th number: 520700
+9000th number: 897212
+10500th number: 964649
+12000th number: 417097
+13500th number: 682975
+15000th number: 856198
+Binary Search | Time Ended: 6:54:34.957 PM
+Binary Search | Duration: 0 ms.
